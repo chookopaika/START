@@ -9,7 +9,7 @@ from telegram import Update,InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater,CommandHandler, MessageHandler, Filters, ConversationHandler, CallbackQueryHandler
 from psycopg2 import Error
 
-TOKEN = "7028785582:AAFaGnQt9enQNJPZjA3qYCw3Gk2UvX_RkiE"
+TOKEN = ""
 
 # Подключаем логирование
 logging.basicConfig(
